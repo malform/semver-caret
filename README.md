@@ -1,5 +1,7 @@
 # Semantic Versioning Caret
 
+**This was renamed to [Semantic Versioning Tilde](https://github.com/myowncake/semver-tilde).**
+
 An extension of Semantic Versioning for initial developments.
 
 ## Specification
